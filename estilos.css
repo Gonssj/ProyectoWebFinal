@@ -1,0 +1,57 @@
+body {
+    background-image: url(https://larepublica.pe/resizer/fH3PKw4H_Rj_XfrhHSevmvNYvMU=/1250x735/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/C7X4VT24NVA4PIOIZ66MRHKU74.jpg);
+    opacity: 92%;
+    background-position: initial;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+    background-image: url(https://eus-www.sway-cdn.com/s/YWwajT6FaAhzTNTW/images/zSZ15TYsV8TQRn?quality=1600&allowAnimation=true);
+    opacity: 95%;
+    height: 350px;
+    width: 100%;
+    background-position: center;
+}
+
+nav {
+    
+}
+
+
+aside {
+    background-color: yellow;
+    float: right;
+    width: 40%;
+    border-radius: 6%;
+    height: 40%;
+}
+
+article {
+    background-color: yellow;
+    border-style: double;
+    border-radius: 5%;
+    background-size: cover;
+    width: 59%;
+    height: 90%;
+}
+
+section {
+    background-color: rgb(96, 115, 237);
+    border-radius: 10%;
+    margin: 20px;
+    padding: auto;
+}
+
+footer {
+    background-color: rgba(119, 211, 211, 0.3);
+    height: 5%;
+}
+
+nav a {
+    text-size-adjust: 50;
+    color: rgb(231, 231, 241);
+    background-color: rgb(21, 28, 221);
+    text-shadow: rgb(1, 8, 11) 0 -1px 4px, #ff0 0 -2px 10px, #ff8000 0 -10px 20px, red 0 -18px 40px;
+
+}
